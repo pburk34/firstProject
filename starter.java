@@ -2,7 +2,7 @@
  * 
  * @author Payton Burke
  * @version 2/5/26
- * 
+ * (COPILOT VERSION)
  * code that will generate a random number between 1 and 10, and have the user guess it
  * 
  */
